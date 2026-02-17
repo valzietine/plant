@@ -5,9 +5,7 @@ Introduction
 Reynoutria japonica (formally Fallopia japonica and commonly called Japanese knotweed) is an herbaceous perennial of the Polygonaceae family and native to East Asia, including China, Japan and Korea. It has large, shield-shaped leaves, large crowns and produces dense canes (Fig. 1). It is recognised as one of the most problematic non-native invasive species globally (Lowe et al., 2000; Pyšek et al., 2003; Duquette et al., 2015; Gillies, Clements & Grenz, 2016; Jones et al., 2018). Its ability to regenerate and spread through vegetative growth and fragmentation (Child & Wade, 2000) makes it a difficult invasive species to manage notwithstanding its lack of viable seeds in the UK, Ireland and elsewhere (Bailey, Bímová & Mandák, 2009; Engler, Abt & Buhk, 2011). Some studies also suggest that increasing global temperatures may support the spread of hybrids that do set seed (e.g., Groenevld, ois Belzile & Lavoie, 2014; Buhk & Thielsch, 2015), which is likely to increase the difficulties of controlling this species. R. japonica is often found on road verges and alongside railways (Beerling, Bailey & Conolly, 1994; Palmer, 1994; Child & Wade, 2000; Fennell, Wade & Bacon, 2018) but primarily invades disturbed ecosystems, such as riparian zones, resulting in increased flood risk (Booy, Wade & Roy, 2015), significant biodiversity alterations (Gerber et al., 2008; Aguilera et al., 2010; Gillies, Clements & Grenz, 2016) and other impacts.
 
 Figure 1. Examples of R. japonica material used in this study.
-Figure 1
 
-Open in a new tab
 (A) Example leaves from each site: (i) Burnley, (ii) Rodley, Leeds, (iii) Huddersfield; (B) rhizome network with examples of (i) dark woody rhizome; (ii) immature rhizome; (iii) pink buds; (iv) immature fleshy rhizome; (v) thin root; (C) example of lab-grown stems from field-collected crown; (D) examples of lab-grown stems beginning to emerge from field-collected rhizome fragments; (E) examples of field-collected plant fragment categories: (i) crown; (ii) rhizome fragment with two nodes; (iii) rhizome fragment with one node (iv); rhizome fragment with zero nodes; black bar = one cm.
 
 Various management options are available for control of Japanese knotweed, from avoidance to excavation, with herbicide treatment being the optimal option under most scenarios (Environment Agency, 2016). Herbicide causes the least damage to the surrounding environment, reduces the risk of accidental spread (Beerling, 1990; Hagen & Dunwiddie, 2008; Hagner et al., 2019) and costs considerably less than excavation. Biological control, despite some promising trials (e.g., Fung et al., 2020) is not currently an available option. Jones et al. (2018) evaluated the use of phenologically-timed herbicide application for the control of R. japonica and highlighted that late season treatments with a glyphosate-based herbicide produce the best outcomes. However, following herbicide treatment there is a risk of regrowth, especially if the ground is disturbed and dormant, viable rhizomes are brought to the surface. As such, research into cost effective control methods that could reduce the potential for regrowth is needed.
@@ -25,9 +23,7 @@ Fieldwork
 Three sites in the North of England, United Kingdom (Fig. 2), two with two years of herbicide treatment and one with no recorded treatment history, were sampled in early April 2019 near the start of the growing season, which avoided concerns about winter dormancy impacting results. Both treated sites (Burnley in Lancashire and Rodley, Leeds in West Yorkshire) were located by the side of the Leeds–Liverpool Canal, surrounded by a riparian habitat, with similar treatment histories (two years of glyphosate-based herbicide treatment applied in October 2017 and 2018). Both are managed by the Canal and Rivers Trust. The untreated site, Huddersfield, West Yorkshire, was similar though on an “island” in the Colne River, with slightly sandier soil and managed by the Yorkshire Wildlife Trust. Collection of plant material was undertaken between 1st and 4th April 2019. Ten crowns and three sections of rhizome per crown were excavated from each site using spade, trowel and hand (to gently remove the ends of the more delicate rhizomes). Crowns were selected randomly once they had at least one live cane emerging (current year’s growth) and one dead cane (showing that the rhizome had produced viable above-ground material in a previous year. Rhizomes were separated from the crowns at the point where they emerge from the crown. Once excavated, crowns and rhizomes were sealed in plastic bags and transported to the lab. Permission to sample was obtained in advance by the Canal and Rivers Trust and the Yorkshire Wildlife Trust respectively.
 
 Figure 2. Field site locations in the United Kingdom.
-Figure 2
 
-Open in a new tab
 (A) Location of field sites in the UK; (B) close-up on the North of England locations of the sites (underlying DEM is the MERIT DEM (http://hydro.iis.u-tokyo.ac.jp/ yamadai/MERIT_DEM/) and waterways are in blue (https://mapcruzin.com/free-england-arcgis-maps-shapefiles.htm)) (C) Burnley field site; (D) Huddersfield field site; (E) Rodley, Leeds field site.
 
 Laboratory work
@@ -51,9 +47,7 @@ Emergence and regeneration
 The experiment ran for 60 days with 88.5% (293/331 stems) of stems emerging within the first 30 days (Fig. 3) and an additional 10 emerging during the final four days of the experiment. A total of 38 stems (11.48% of all regenerations) emerged between day 31 and day 60 (Fig. 3; Table 1), highlighting that 30 days in not long enough to track emergence (or regeneration) of R. japonica. All three sites had emergences during this period from both crowns and rhizomes.
 
 Figure 3. Frequency of new stem emergence per day of the 60-day experiment across all the categories of plant material.
-Figure 3
 
-Open in a new tab
 Colours refer to sites (Burnley in blue; Rodley in red and Huddersfield in yellow) and colour tones refer to size of plant material (darkest shades for full crown, medium shades for two node rhizome fragments and lightest tone for one node rhizome fragments). Full, full crown; number, number of nodes (1 or 2); BR, Burnley; RR, Rodley; HR, Huddersfield. The dashed line shows day 30.
 
 Table 1. Regenerative success of all sites and size categories.
@@ -72,7 +66,6 @@ Huddersfield Full	10/10	100%
 Huddersfield Rh 2	25/30	83.3%
 Huddersfield Rh 1	18/30	60%
 Huddersfield Rh 0	0/30	0%
-Open in a new tab
 Notes.
 
 Full
