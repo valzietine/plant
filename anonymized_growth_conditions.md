@@ -1,6 +1,4 @@
-# Ideal Growth Conditions for an Anonymized Rhizomatous Perennial
-
-> This document provides habitat and cultivation-condition guidance in intentionally generalized terms. It is designed to be educational while avoiding species-level identifiers.
+# Ideal Growth Conditions for a Rhizomatous Perennial
 
 ## 1) Climate Envelope
 
@@ -56,15 +54,7 @@
 4. Fertile, disturbed, and physically penetrable soils.
 5. Limited long-term suppression pressure.
 
-## 9) Practical Risk-Aware Framing (Generalized)
-
-- Any vigorous rhizomatous perennial with these traits can dominate open niches if unmanaged.
-- Site managers should prioritize:
-  - early detection,
-  - careful handling of root/rhizome fragments,
-  - and multi-season monitoring after disturbance.
-
-## 10) Quick Reference Table
+## 9) Quick Reference Table
 
 | Factor | Preferred Condition | Tolerance Notes |
 |---|---|---|
@@ -74,9 +64,3 @@
 | Soil texture | Loam/silt/structured disturbed soils | Broad adaptability |
 | Soil pH | ~5.5-7.8 | Performs across mildly acidic to mildly alkaline sites |
 | Nutrients | Moderate-high fertility | Nitrogen-rich sites often increase vigor |
-
----
-
-### Anonymization Note
-
-The profile above intentionally omits distinctive identifiers and species-specific diagnostics while preserving environmentally relevant growth-condition guidance.
