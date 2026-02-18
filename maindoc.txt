@@ -6,7 +6,7 @@ Introduction
 
 Figure 1. Examples of [REDACTED SPECIES] material used in this study.
 
-(A) Example leaves from each site: (i) [REDACTED LOCATION], (ii) [REDACTED LOCATION], (iii) [REDACTED LOCATION]; (B) rhizome network with examples of (i) dark woody rhizome; (ii) immature rhizome; (iii) pink buds; (iv) immature fleshy rhizome; (v) thin root; (C) example of lab-grown stems from field-collected crown; (D) examples of lab-grown stems beginning to emerge from field-collected rhizome fragments; (E) examples of field-collected plant fragment categories: (i) Type D (intact vegetative propagule); (ii) Type C fragment; (iii) Type B fragment; (iv) Type A fragment; black bar = one cm.
+(A) Example leaves from each site: (i) [REDACTED LOCATION], (ii) [REDACTED LOCATION], (iii) [REDACTED LOCATION]; (B) rhizome network with examples of (i) mature rhizome segment; (ii) developing rhizome segment; (iii) bud node; (iv) fleshy rhizome segment; (v) fine root; (C) example of lab-grown stems from a field-collected intact propagule (Type D); (D) examples of lab-grown stems beginning to emerge from field-collected rhizome fragments; (E) examples of field-collected plant fragment categories: (i) Type D (intact propagule); (ii) Type C fragment; (iii) Type B fragment; (iv) Type A fragment; black bar = one cm.
 
 [REDACTED SPECIES] can regenerate through vegetative propagules. The rhizome network is relevant because root:shoot ratios can vary with available nutrients (Hirose, 1987). Rhizome form and growth direction can vary across conditions (Smith et al., 2007). Previous studies report regeneration from small rhizome fragments, though the minimum fragment size for reliable regeneration remains uncertain. Other work has demonstrated a dependence of regeneration on rhizome length (Sásik & Pavol Jr, 2006), and Francis, Riley & Hoggart (2008) suggested that, for regeneration from stems, node number may be an important determinant. Overall, there is insufficient evidence to make conclusive statements on the most relevant metric (rhizome weight, length or number of nodes) required for successful regeneration.
 
@@ -44,11 +44,11 @@ Results
 Emergence and regeneration
 The experiment ran for 60 days with 88.5% (293/331 stems) of stems emerging within the first 30 days (Fig. 3) and an additional 10 emerging during the final four days of the experiment. A total of 38 stems (11.48% of all regenerations) emerged between day 31 and day 60 (Fig. 3; Table 1), highlighting that 30 days in not long enough to track emergence (or regeneration) of [REDACTED SPECIES]. All three sites had emergences during this period from multiple vegetative propagule classes.
 
-Figure 3. Frequency of new stem emergence per day of the 60-day experiment across all the categories of plant material.
+Figure 3. Frequency of new stem emergence per day of the 60-day experiment across all fragment categories.
 
-Colours refer to sites ([REDACTED LOCATION] in blue; [REDACTED LOCATION] in red and [REDACTED LOCATION] in yellow) and colour tones refer to size of plant material (darkest shades for intact vegetative propagule, medium shades for Type C fragments and lightest tone for Type B fragments). Type D, intact vegetative propagule; Type A/B/C, anonymized fragment categories; BR, [REDACTED LOCATION]; RR, [REDACTED LOCATION]; HR, [REDACTED LOCATION]. The dashed line shows day 30.
+Colours indicate site groups and colour tones indicate fragment category (darkest shades for Type D intact propagules, medium shades for Type C fragments, and lightest tones for Type B fragments). Type D = intact propagule; Type C = large fragment class; Type B = intermediate fragment class; Type A = small fragment class. The dashed line shows day 30.
 
-Table 1. Regenerative success of all sites and size categories.
+Table 1. Regenerative success by site group and fragment category.
 Percentages rounded to nearest 0.1%.
 
  	NS/N	Success rate (%)
@@ -67,7 +67,7 @@ Percentages rounded to nearest 0.1%.
 Notes.
 
 Type D
-intact vegetative propagules
+intact propagules
 Type A
 small fragment class
 Type B
@@ -77,10 +77,10 @@ large fragment class
 NS
 number of vegetative propagules successfully regenerated from N, total number of samples
 Category key
-Type A = smallest fragment class; Type B = intermediate fragment class; Type C = largest fragment class; Type D = intact vegetative propagule class
-Day 16 had the most new emergences with 57 new buds emerging above the surface of the soil. Figure 3 shows that emergences from smaller fragment categories experience a longer lag time compared to intact vegetative propagules, with first emergence in intact propagules occurring on day 3 and first emergence in fragment classes occurring on day 7.
+Type A = small fragment class; Type B = intermediate fragment class; Type C = large fragment class; Type D = intact propagule class
+Day 16 had the most new emergences with 57 new shoots emerging above the soil surface. Figure 3 shows that emergences from smaller fragment categories experience a longer lag time compared to Type D intact propagules, with first emergence in Type D occurring on day 3 and first emergence in fragment classes occurring on day 7.
 
-Successful regeneration occurred in multiple vegetative propagule classes in Type B and Type C categories. No emergence (or regeneration) was recorded from any Type A fragment, regardless of fragment weight or length. Table 1 shows that intact vegetative propagules exhibited the highest success rate with the only failed regenerations occurring in [REDACTED LOCATION] (20% (two Type D samples) failed to regenerate) and that with the increasing size categories (Type A to Type B to Type C to Type D) there was an increase in successful regeneration.
+Successful regeneration occurred in multiple propagule categories in Type B and Type C. No emergence (or regeneration) was recorded from any Type A fragment, regardless of fragment weight or length. Table 1 shows that Type D intact propagules exhibited the highest success rate, with the only failed Type D regenerations occurring in [REDACTED LOCATION] (20% (two Type D samples) failed to regenerate), and that increasing category size (Type A to Type B to Type C to Type D) corresponded to increased successful regeneration.
 
 Growth
 Most of the substantial increase in height was observed in the first three weeks, with maximum growth usually occurring in weeks 2–4 (Fig. 4), for all plant fragment types but maximum growth was recorded for two [REDACTED LOCATION] Type B fragments and two [REDACTED LOCATION] Type D samples in week 5 and for one [REDACTED LOCATION] Type B fragment in week 6 (Supplemental Information). Thereafter, growth decreased or ceased towards the latter half of the study period. The highest weekly growth increment was 111.8 cm per week (Supplemental Information), by a [REDACTED LOCATION] intact vegetative propagule in its second week of growth. The minimum growth rate recorded was 0 cm for at least one plant fragment of each type .There was no significant difference between Type D samples (Kruskal-Wallis: p = 0.262, H = 2.68; Figs. 4B(i) and Figs. 4C(i)) or Type B fragments (p = 0.206, F = 1.7; Figs. 4B(iii) and 4C(iii)) across 
